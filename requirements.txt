@@ -1,0 +1,9 @@
+streamlit>=1.32
+streamlit-folium>=0.20
+folium>=0.15
+plotly>=5.18
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+Pillow>=10.0
+branca>=0.7
